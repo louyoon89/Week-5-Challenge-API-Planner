@@ -16,5 +16,5 @@
     * Functional planner which allows the input and storage of data in timeblocks which have been color-coded based on the current status/time of each block.
 * CSS has been updated: Save Button & Timeblock Borders have been modified for clear block distinctions and follow hover interactions as the homework-demo.
 * Completed all acceptance criteria and have deployed links:
-    * Live link: 
-    * Github link:
+    * Live link: https://louyoon89.github.io/Week-5-Challenge-API-Planner/
+    * Github link: https://github.com/louyoon89/Week-5-Challenge-API-Planner
